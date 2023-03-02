@@ -1,0 +1,4 @@
+Log file created at: 2022/10/29 04:19:22
+Running on machine: derek-desktop
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1029 04:19:22.480036 14616 MVCameraBase.cpp:99] Device:(name:HT-SUA502C-T1V-C sn:042022820001)Lost

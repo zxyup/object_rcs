@@ -1,0 +1,4 @@
+Log file created at: 2022/11/14 23:04:56
+Running on machine: derek-desktop
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E1114 23:04:56.591886 10562 MVCAMAPI.cpp:350] CameraInit Failed, err:-18,Version:2.1.0.36,FriendlyName:HT-SUA502C-T1V-C,SN:042022820001
